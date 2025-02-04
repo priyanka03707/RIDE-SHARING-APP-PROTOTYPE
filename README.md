@@ -18,3 +18,4 @@ The app is divided into two primary user roles: Passengers and Drivers. Passenge
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/77d22c8b-935e-4947-b9d8-c50b72678846)
